@@ -51,3 +51,7 @@ player 0 wins if the same numbers are shown, player 1 wins otherwise.
 AUTHOR
 
 Laszlo Simon <laszlo.simon@gmail.com>
+
+LICENCE
+
+CC-BY-SA
