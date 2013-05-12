@@ -14,7 +14,7 @@ thrust a fist into the center, extending a thumb finger, or not,
 indicating zero or one. 
 The logical operation exclusive OR of displayed binary numbers decides the winner:
 player 0 wins if the same numbers are shown, player 1 wins otherwise.
-
+<pre>
                                                                    :)                                   :(
       ,--.____              ____.--,                                    ,--.____             ____.--,    
  ----" _, \___)            (___/ ,_ "----          case A          ----" _, \___)           (___/ ,_ "----
@@ -47,7 +47,7 @@ player 0 wins if the same numbers are shown, player 1 wins otherwise.
                                                 :                  ----\     (__)           (__)     /----
                   XOR!   - - - - - - - - - - - -'                       `-----"               "-----'
 
-
+</pre>
 AUTHOR
 
 Laszlo Simon <laszlo.simon@gmail.com>
